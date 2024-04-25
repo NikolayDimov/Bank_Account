@@ -1,5 +1,5 @@
 # React + TypeScript + Vite + useReducer
 
-# React Quiz
+# Bank Account
 
 1. npm run dev
